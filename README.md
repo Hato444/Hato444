@@ -24,7 +24,7 @@ I’m not claiming to be an established industry professional. I’m building my
 These are the tools and technologies I have used in my projects and coursework.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,git,github,vscode,figma" alt="HTML5, CSS3, JavaScript, React, Next.js, Node.js, Express, Java, Git, GitHub, VS Code, and Figma logos" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,python,git,github,vscode,figma" alt="HTML5, CSS3, JavaScript, React, Next.js, Node.js, Express, Java, Python, Git, GitHub, VS Code, and Figma logos" />
 </p>
 
 ### Frontend
@@ -37,6 +37,7 @@ These are the tools and technologies I have used in my projects and coursework.
 ### Backend
 - Node.js
 - Express.js
+- Python
 
 ### Desktop development
 - Java
