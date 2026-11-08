@@ -24,7 +24,7 @@ I’m not claiming to be an established industry professional. I’m building my
 These are the tools and technologies I have used in my projects and coursework.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,python,git,github,vscode,figma" alt="HTML5, CSS3, JavaScript, React, Next.js, Node.js, Express, Java, Python, Git, GitHub, VS Code, and Figma logos" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,python,electron,git,github,vscode,figma" alt="HTML5, CSS3, JavaScript, React, Next.js, Node.js, Express, Java, Python, Electron, Git, GitHub, VS Code, and Figma logos" />
 </p>
 
 ### Frontend
@@ -40,6 +40,7 @@ These are the tools and technologies I have used in my projects and coursework.
 - Python
 
 ### Desktop development
+- Electron
 - Java
 - JavaFX
 
@@ -55,6 +56,7 @@ These are the tools and technologies I have used in my projects and coursework.
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| **TENKONVERTA** | A practical Windows desktop video downloader customized from the open-source [ArcDLP](https://github.com/archisvaze/arcdlp) project, using yt-dlp and FFmpeg to make video downloading available through an Electron app. | Electron, yt-dlp, FFmpeg | [GitHub](https://github.com/Hato444/TENKONVERTA) |
 | **Oxsnow Studio** | Film and creative-technology platform focused on digital presentation, modern web experiences, and creative storytelling. | Next.js, React, JavaScript | [Live site](https://oxsnow.vercel.app/) · [GitHub](https://github.com/Hato444/oxsnow) |
 | **HA RE YENG** | Lesotho-focused events landing page designed for cultural and entertainment experiences with responsive web presentation. | HTML5, CSS3 | [Live site](https://bejewelled-beignet-e43cfc.netlify.app/) |
 | **DLALA** | Academic JavaFX desktop media-player project built as part of my university coursework. | Java, JavaFX | [GitHub](https://github.com/Hato444/-DLALA) |
@@ -70,6 +72,7 @@ I’m learning through a combination of:
 - Software engineering studies at university
 - Independent project building
 - Web and desktop application experiments
+- Building, packaging, testing, and publishing a Windows desktop application
 - Creative technology exploration
 - Continuous improvement through practical work
 
