@@ -69,6 +69,8 @@ These are future write-up topics, not published articles.
 
 <a href="https://github.com/Hato444"><img src="https://github-readme-stats.vercel.app/api?username=Hato444&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub activity statistics for Hato444" /></a>
 
+<a href="https://github.com/Hato444"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hato444&amp;theme=react-dark&amp;bg_color=0D1117&amp;color=39D353&amp;line=39D353&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph for Hato444" /></a>
+
 ## 05 / Support my work
 
 If you enjoy the projects, exploring the repositories, sharing feedback, or collaborating is a great way to support the work.
