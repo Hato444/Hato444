@@ -1,115 +1,78 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Keletso+Hato;Software+Engineering+Student;Self-Taught+Developer;Creative+Technologist" alt="Keletso Hato, Software Engineering Student, Self-Taught Developer, Creative Technologist" />
-</p>
+<p align="center"><img src="assets/header.svg" alt="HATO / TECH BRO — code, create, ship" width="900"></p>
 
-<p align="center">
-  <strong>Software Engineering Student | Self-Taught Developer | Creative Technologist</strong><br>
-  <sub>Lesotho 🇱🇸 • Building practical software while studying and learning by doing</sub>
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=39D353&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hey%2C+I%27m+Keletso+Hato.;Software+engineering+student.;Building+ideas+into+working+software." alt="Hey, I'm Keletso Hato. Software engineering student. Building ideas into working software." /></p>
 
----
+I'm **Keletso Hato**, a software engineering student at Limkokwing University of Creative Technology in Lesotho, and a self-taught developer learning by building. I work across desktop apps, web experiences and creative technology, turning ideas into practical projects and improving with each release.
 
-## About me
-
-I’m a software engineering student at Limkokwing University of Creative Technology in Lesotho, and I’m also a self-taught developer who learns by building.
-
-My journey is rooted in curiosity, experimentation, and practical problem-solving. I enjoy working across web development, creative technology, desktop apps, and digital experiences—turning concepts into working projects while I keep growing as a developer.
-
-I’m not claiming to be an established industry professional. I’m building my foundation, developing my skills, and documenting my progress through real projects and continuous learning.
+**[Explore my portfolio ↗](https://hato-portfolio.vercel.app/)** &nbsp; · &nbsp; **[Connect on GitHub ↗](https://github.com/Hato444)**
 
 ---
 
-## Tech stack
+## 01 / Software I've Built
 
-These are the tools and technologies I have used in my projects and coursework.
+Select an icon to explore the project. Each product keeps its own identity.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,python,electron,git,github,vscode,figma" alt="HTML5, CSS3, JavaScript, React, Next.js, Node.js, Express, Java, Python, Electron, Git, GitHub, VS Code, and Figma logos" />
+<p>
+  <a href="https://github.com/Hato444/TENKONVERTA"><img src="assets/apps/tenkonverta.png" width="100" alt="TENKONVERTA source repository" /></a>&nbsp;
+  <a href="https://github.com/Hato444/-DLALA"><img src="assets/apps/dlala.svg" width="100" alt="DLALA source repository" /></a>&nbsp;
+  <a href="https://oxsnow.vercel.app/"><img src="assets/apps/oxsnow.png" width="100" alt="Oxsnow Studio website" /></a>&nbsp;
+  <a href="https://bejewelled-beignet-e43cfc.netlify.app/"><img src="assets/apps/hareyeng.svg" width="100" alt="HA RE YENG website" /></a>&nbsp;
+  <a href="https://github.com/Hato444/-onegov-lesotho"><img src="assets/apps/onegov.svg" width="100" alt="OneGov Lesotho source repository" /></a>
 </p>
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Next.js
+- **[TENKONVERTA](https://github.com/Hato444/TENKONVERTA)** — Electron desktop video downloader using yt-dlp and FFmpeg; adapted from [ArcDLP](https://github.com/archisvaze/arcdlp).
+- **[DLALA](https://github.com/Hato444/-DLALA)** — JavaFX music and video player developed for university coursework.
+- **[Oxsnow Studio](https://oxsnow.vercel.app/)** — a web presence for Basotho film and storytelling. [Source ↗](https://github.com/Hato444/oxsnow)
+- **[HA RE YENG](https://bejewelled-beignet-e43cfc.netlify.app/)** — an independent student showcase for Lesotho events and culture.
+- **[OneGov Lesotho](https://github.com/Hato444/-onegov-lesotho)** — a collaborative civic-services prototype exploring a unified citizen record; not an official government service.
 
-### Backend
-- Node.js
-- Express.js
-- Python
+### Inside the work
 
-### Desktop development
-- Electron
-- Java
-- JavaFX
+<a href="https://oxsnow.vercel.app/"><img src="assets/apps/oxsnow-screen.png" alt="Oxsnow Studio website homepage" width="700" /></a>
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
+<sub>Oxsnow Studio — website homepage</sub>
+
+<a href="https://bejewelled-beignet-e43cfc.netlify.app/"><img src="assets/apps/hareyeng-screen.png" alt="HA RE YENG homepage with its headline and crowd photograph" width="700" /></a>
+
+<sub>HA RE YENG — events showcase homepage</sub>
 
 ---
 
-## Featured projects
+## 02 / The toolkit
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **TENKONVERTA** | A practical Windows desktop video downloader customized from the open-source [ArcDLP](https://github.com/archisvaze/arcdlp) project, using yt-dlp and FFmpeg to make video downloading available through an Electron app. | Electron, yt-dlp, FFmpeg | [GitHub](https://github.com/Hato444/TENKONVERTA) |
-| **Oxsnow Studio** | Film and creative-technology platform focused on digital presentation, modern web experiences, and creative storytelling. | Next.js, React, JavaScript | [Live site](https://oxsnow.vercel.app/) · [GitHub](https://github.com/Hato444/oxsnow) |
-| **HA RE YENG** | Lesotho-focused events landing page designed for cultural and entertainment experiences with responsive web presentation. | HTML5, CSS3 | [Live site](https://bejewelled-beignet-e43cfc.netlify.app/) |
-| **DLALA** | Academic JavaFX desktop media-player project built as part of my university coursework. | Java, JavaFX | [GitHub](https://github.com/Hato444/-DLALA) |
+Technologies I've used in projects and coursework; always learning.
 
-> I have kept the project descriptions accurate and aligned with the information currently verified. Where a repository or live preview was not confirmed, I have avoided inventing details.
+**Web** · HTML, CSS, JavaScript, React, Next.js<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="HTML, CSS, JavaScript, React and Next.js" />
 
----
+**Application &amp; backend** · Java, JavaFX, Electron, Node.js, Express, Python<br>
+<img src="https://skillicons.dev/icons?i=java,electron,nodejs,express,python" alt="Java, Electron, Node.js, Express and Python" />
 
-## Development journey
-
-I’m learning through a combination of:
-
-- Software engineering studies at university
-- Independent project building
-- Web and desktop application experiments
-- Building, packaging, testing, and publishing a Windows desktop application
-- Creative technology exploration
-- Continuous improvement through practical work
-
-My older repositories are part of my history. They show where I started, what I was learning, and how I keep progressing with each project.
+**Tools** · Git, GitHub, VS Code, Figma<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code and Figma" />
 
 ---
 
-## GitHub stats
+## 03 / Engineering notes
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hato444&show_icons=true&theme=github_dark&hide_border=false&count_private=true" alt="GitHub statistics card for Hato444" />
-</p>
+Topics I want to write about as I document the work:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hato444&layout=compact&theme=github_dark&hide_border=false" alt="Most used languages for Hato444" />
-</p>
+- Building and customizing TENKONVERTA
+- Developing DLALA with JavaFX
+- OneGov Lesotho's service architecture
+- Lessons from deploying Oxsnow Studio
+- Software testing, licensing, security and deployment
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hato444&theme=react-dark&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph for Hato444" />
-</p>
+These are future write-up topics, not published articles.
 
----
+## 04 / Activity
 
-## Open to collaboration
+<a href="https://github.com/Hato444"><img src="https://github-readme-stats.vercel.app/api?username=Hato444&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub activity statistics for Hato444" /></a>
 
-I’m open to:
+## 05 / Support my work
 
-- Developer collaborations
-- Freelance web development opportunities
-- Learning and mentorship
-- Building useful digital products
-
-You can find me here:
-- GitHub: [@Hato444](https://github.com/Hato444)
+If you enjoy the projects, exploring the repositories, sharing feedback, or collaborating is a great way to support the work.
 
 ---
 
-<p align="center">
-  <strong>Building, learning, and improving one project at a time.</strong>
-</p>
+**Let's build something useful.** [Portfolio](https://hato-portfolio.vercel.app/) · [GitHub](https://github.com/Hato444)
